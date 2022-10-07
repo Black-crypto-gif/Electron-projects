@@ -1,0 +1,16 @@
+{
+  "name": "electron",
+  "productName": "Desktop Area mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "mellal fethi",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.1.0",
+    "toastify-js": "^1.12.0"
+  }
+}
