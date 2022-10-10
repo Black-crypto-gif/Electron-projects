@@ -10,7 +10,9 @@
   "author": "mellal fethi",
   "license": "MIT",
   "dependencies": {
-    "electron": "^21.1.0",
     "toastify-js": "^1.12.0"
+  },
+  "devDependencies": {
+    "electron": "^21.1.0"
   }
 }
